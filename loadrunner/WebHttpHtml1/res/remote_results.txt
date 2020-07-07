@@ -1,0 +1,2 @@
+[Hosts]
+localhost=D:\LoadRunner\VuGen_Scripts\WebHttpHtml1\res\localhost_1.eve
